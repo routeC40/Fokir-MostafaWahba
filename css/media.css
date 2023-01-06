@@ -1,0 +1,363 @@
+@media screen and (max-width:575px) {
+    .container {
+        max-width: 540px;
+    }
+
+    .landing .container {
+        max-width: 540px;
+    }
+
+    .landing .container .navbar .logo {
+        width: 25%;
+    }
+
+    .landing .container .navbar .menu {
+        width: 75%;
+    }
+
+    .landing .w-message h4::after {
+        display: none;
+    }
+
+    .about .image-border {
+        border: none;
+        width: 100%;
+        display: block;
+        margin: auto;
+        left: 0;
+    }
+
+    .about .image-box {
+        transform: none;
+    }
+
+    .about .text {
+        padding-left: 0;
+        width: 100%;
+        display: block;
+        margin: 30px auto;
+    }
+
+    .about .text ul {
+        padding-right: 0;
+    }
+
+    .about .text ul li {
+        padding: 0px;
+    }
+
+    .services .content {
+        width: 100%;
+    }
+
+    .services .contents {
+        padding: 35px 25px;
+    }
+
+    .portfolio .photos .photo {
+        width: 100%;
+        float: none;
+    }
+
+    .numbers .items .item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .feedback .f-box {
+        width: 100%;
+    }
+
+    .feedback .f-box .image {
+        float: none;
+    }
+
+    .feedback .f-box .text {
+        width: 100%;
+    }
+
+    .blog .items {
+        width: 100%;
+    }
+
+    .blog .items .item {
+        width: 100%;
+    }
+
+    .portfolio .photos .photo i {
+        right: 25px;
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:767px) {
+    .container {
+        max-width: 720px;
+    }
+
+    .landing .container {
+        max-width: 720px;
+    }
+
+    .landing .container .navbar {
+        max-width: 580px;
+    }
+
+    .landing .container .navbar .logo {
+        width: 18%;
+    }
+
+    .landing .container .navbar .menu {
+        width: 77%;
+    }
+
+    .landing .w-message h4::after {
+        display: none;
+    }
+
+    .about {
+        padding: 60px 0;
+    }
+
+    .about .image-border {
+        border: none;
+        width: 100%;
+        display: block;
+        margin: auto;
+        left: 0;
+    }
+
+    .about .image-box {
+        transform: none;
+    }
+
+    .about .text {
+        padding-left: 0;
+        width: 100%;
+        display: block;
+        margin: 30px auto;
+    }
+
+    .about .text ul {
+        padding-right: 35px;
+    }
+
+    .about .text ul li {
+        padding-bottom: 15px;
+    }
+
+    .services .content {
+        width: 100%;
+    }
+
+    .services .contents {
+        padding: 35px 25px;
+    }
+
+    .portfolio .photos .photo {
+        width: 75%;
+        float: none;
+        margin: 15px auto;
+    }
+
+    .numbers .items .item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .feedback .f-box {
+        width: 100%;
+    }
+
+    .feedback .f-box .image {
+        float: none;
+    }
+
+    .feedback .f-box .text {
+        width: 100%;
+    }
+
+    .blog .items {
+        width: 100%;
+    }
+
+    .blog .items .item {
+        width: 100%;
+    }
+
+    .contact .c-form .name {
+        width: 100%;
+    }
+
+    .contact .c-form .email {
+        width: 100%;
+    }
+
+    .portfolio .photos .photo i {
+        right: 25px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .container {
+        max-width: 960px;
+    }
+
+    .landing .container {
+        max-width: 960px;
+    }
+
+    .landing .container .navbar {
+        max-width: 820px;
+    }
+
+    .landing .container .navbar .logo {
+        width: 16%;
+    }
+
+    .landing .container .navbar .menu {
+        width: 70%;
+    }
+
+    .landing .w-message h4::after {
+        display: none;
+    }
+
+    .about {
+        padding: 70px 0 70px;
+    }
+
+    .about .image-border {
+        border: none;
+        margin-left: 0;
+        left: 0;
+    }
+
+    .about .image-box {
+        transform: none;
+    }
+
+    .about .text {
+        padding-left: 0;
+    }
+
+    .about .text ul {
+        padding-right: 0;
+    }
+
+    .about .text ul li {
+        padding: 0px;
+    }
+
+    .services .content {
+        width: 50%;
+    }
+
+    .portfolio .photos .photo {
+        width: 45%;
+    }
+
+    .numbers .items {
+        padding: 0;
+    }
+
+    .feedback .f-box {
+        width: 100%;
+    }
+
+    .blog .items {
+        width: 105%;
+    }
+
+    .blog .items .item {
+        width: 28%;
+    }
+
+}
+
+@media screen and (min-width:992px) and (max-width:1199px) {
+    .container {
+        max-width: 1140px;
+    }
+
+    .landing .container {
+        max-width: 1140px;
+    }
+
+    .landing .container .navbar {
+        max-width: 1000px;
+    }
+
+    .landing .container .navbar .logo {
+        width: 16%;
+    }
+
+    .landing .container .navbar .menu {
+        width: 65%;
+    }
+
+    .landing .w-message h4::after {
+        display: none;
+    }
+
+    .about .image-border {
+        margin-left: 0;
+    }
+
+    .about .text {
+        padding-left: 70;
+    }
+
+    .about .text ul {
+        padding-right: 0;
+    }
+
+    .about .text ul li {
+        padding-bottom: 15px;
+    }
+
+    .portfolio .photos .photo {
+        width: 46%;
+    }
+
+    .numbers .items {
+        padding: 0 45px;
+
+    }
+
+    .feedback .f-box .text {
+        width: 70%;
+    }
+
+    .blog .items {
+        width: 105%;
+    }
+
+    .blog .items .item {
+        width: 28%;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1515px) {
+    .landing .w-message h4::after {
+        display: none;
+    }
+
+    .about .text {
+        padding: 0 100px 0 70px;
+    }
+
+    .about .text ul {
+        padding-right: 0;
+    }
+
+    .about .text ul li {
+        padding-bottom: 15px;
+    }
+
+}
+
+@media screen and (min-width:1515px) {
+    .about .text {
+        padding: 0 100px 0 70px;
+    }
+}
